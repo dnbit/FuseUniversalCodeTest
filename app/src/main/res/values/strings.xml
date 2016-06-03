@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fuse Universal</string>
+    <string name="hint_et_query_value">Type company</string>
+    <string name="company_name_invalid">Company name not valid. Please try again</string>
+    <string name="network_unavailable">Network connection is currently unavailable</string>
+    <string name="please_type_name">Please type company name</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="unknown_company">Unknown</string>
+</resources>
